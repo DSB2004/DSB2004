@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsb2004&label=Profile%20views&color=0e75b6&style=flat" alt="dsb2004" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Data structure**
+- 🌱 I’m currently learning **Machine Learning and Data structures**
 
 - 💬 Ask me about **React, JavaScript and Python**
 
